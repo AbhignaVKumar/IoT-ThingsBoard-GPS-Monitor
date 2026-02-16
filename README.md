@@ -193,5 +193,3 @@ Navigate to **Device → Latest telemetry** to confirm data is being received.
 
 ---
 
-
-[Add your information here]
